@@ -27,3 +27,6 @@ const sentryWebpackPluginOptions = {
 module.exports = isProd
   ? withSentryConfig(moduleExports, sentryWebpackPluginOptions)
   : { ...moduleExports }
+
+
+JOEEHOEE??? contact met Pandu (/ContactOptions<Elmar>)
